@@ -1,6 +1,9 @@
 body {
     background: rgba(182, 173, 173, 0.945);
 }
+h2 {
+    text-align: center;
+}
 table,td {
     border: 1px solid #333;
     text-align: center;
@@ -25,4 +28,9 @@ h1 {
 }
 .venus td{
     border: 1px solid rgb(189, 55, 189);
+}
+img {
+    display: block;
+    margin: 0 auto;
+
 }
