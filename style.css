@@ -9,8 +9,20 @@ table,td {
    
 }
 th {
-    border: 1px solid white;
+    border: 1px solid black;
 }
 h1 {
     text-align: center;
+}
+.earth td{
+    border: 1px solid blue;
+}
+.uranus td{
+    border: 1px solid pink;
+}
+.mars td{
+    border: 1px solid red;
+}
+.venus td{
+    border: 1px solid rgb(189, 55, 189);
 }
